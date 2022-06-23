@@ -42,7 +42,7 @@ namespace library_automation
 
         private void btnHakkinda_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Özge Yoldaş | 303 | 10-A");
+            MessageBox.Show("Github: ayaato");
         }
 
         private void button10_Click(object sender, EventArgs e)
