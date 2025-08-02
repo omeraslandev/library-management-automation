@@ -1,4 +1,4 @@
-# Program Kurulumu! 🌟
+# Program Installation! 🌟
 
-1) "veritabanı dosyası" klasöründeki SQL scriptini açıp kendi MSSQL sunucunuzda "Execute" işlemini yapın. 
-2) "library_automation/Baglanti.cs" dosyasındaki bağlantı dizesini kendi serverinizin bağlantı dizesiyle değiştirin. 🎉
+1) Open the SQL script in the "veritabanı dosyası" folder and execute it on your own MSSQL server.
+2) Replace the connection string in the "library_automation/Connection.cs" file with your own server's connection string. 🎉
